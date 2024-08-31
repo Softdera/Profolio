@@ -26,7 +26,7 @@
             description: 'A website to showcase an array of products.',
             technologies: 'HTML, CSS, JavaScript, Vue.js.',
             GithubLink: 'https://github.com/Softdera/myProductApp',
-            VercelLink: 'my-product-app.vercel.app'
+            VercelLink: 'https://my-product-app.vercel.app'
           },
 
           {
@@ -34,7 +34,7 @@
             description: 'A company’s website designed majorly for larger screens.',
             technologies: 'HTML, CSS, JavaScript, Vue.js, Bootstrap, Figma.',
             GithubLink: 'https://github.com/Softdera/designP',
-            VercelLink: 'design-p-xi.vercel.app' },
+            VercelLink: 'https://design-p-xi.vercel.app' },
 
             {
             title: 'Health AI Chatbot',
@@ -48,7 +48,7 @@
             description: 'A simple React App showing a company’s DashBoard.',
             technologies: 'React.js, CSS, HTML, JavaScrip, Bootstrap, Figma.',
             GithubLink: 'https://github.com/Softdera/react-dashboard-prototype',
-            VercelLink: 'react-dashboard-prototype.vercel.app'
+            VercelLink: 'https://react-dashboard-prototype.vercel.app'
           },
 
           {
@@ -56,7 +56,7 @@
             description: 'A simple Bank app that can perform basic Bank operations such as transfers from one account to another, adding new accounts, records the transaction carried out by individual accounts as well as total transactions made by the customers in the said bank etc',
             technologies: 'Vue.js, CSS, HTML, JavaScript, Bootstrap.',
             GithubLink: 'https://github.com/Softdera/BankAppUpdated',
-            VercelLink: 'bank-app-updated-mvl2.vercel.app'
+            VercelLink: 'https://bank-app-updated-mvl2.vercel.app'
           },
 
           {
@@ -64,7 +64,7 @@
             description: 'A simple list app to manage the information of staff in a company.',
             technologies: 'Vue.js, CSS, HTML, JavaScript, Bootstrap.',
             GithubLink: 'https://github.com/Softdera/ContactList',
-            VercelLink: 'contact-list-zubr.vercel.app'
+            VercelLink: 'https://contact-list-zubr.vercel.app'
           },
 
           {
@@ -72,7 +72,7 @@
             description: 'A simple highchart project where data was pulled from firebase realtime database and saved in the local storage.',
             technologies: 'Vue.js, CSS, HTML, JavaScript, Firebase, Bootstrap.',
             GithubLink: 'https://github.com/Softdera/Practice',
-            VercelLink: 'practice-lime-theta.vercel.app'
+            VercelLink: 'https://practice-lime-theta.vercel.app'
           },
 
         
