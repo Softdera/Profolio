@@ -3,7 +3,7 @@
     <section>
         <p><strong><em>Hello to you 👋🏻</em></strong></p>
       <h1> I'm Chiekwena Emmanuel Chidera, <br>
-         a Frontend Developer.</h1>
+         an AI Frontend Developer.</h1>
          <img src="@/assets/soft.jpg" alt="User" class="userImg">
          <p><strong><em>Welcome to my Page</em></strong></p>
 
