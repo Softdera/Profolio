@@ -74,6 +74,14 @@
             GithubLink: 'https://github.com/Softdera/Practice',
             VercelLink: 'https://practice-lime-theta.vercel.app'
           },
+        {
+            title: 'A Simple ToDo List',
+            description: 'A simple to do list of completed and pending tasks.',
+            technologies: 'Next.js, Material UI, TypeScript, HTML, JavaScript.',
+            GithubLink: 'https://github.com/Softdera/techtink-task-manager',
+            VercelLink: 'https://techtink-task-manager.vercel.app/'
+          },
+
 
         
         ]
