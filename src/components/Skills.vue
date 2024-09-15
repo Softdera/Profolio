@@ -13,7 +13,7 @@
     name: 'Skills',
     data() {
       return {
-        skills: ['HTML', 'CSS', 'JavaScript', 'Vue.js', 'Git', 'GitHub', 'React.js', 'Ai']
+        skills: ['HTML', 'CSS', 'JavaScript', 'Vue.js', 'Git', 'GitHub', 'React.js', 'AI Tools', 'Next.js', 'TailWind CSS', 'Material UI', 'RPA Tools', 'and more']
       }
     }
   }
