@@ -1,7 +1,7 @@
 <template>
     <section>
       <h2>Contact Me</h2>
-      <label>Email:</label>  <a href="chiekwenachidera@gmail.com"> chiekwenachidera@gmail.com</a> 
+      <label>Email:</label>  <a href="mailto:chiekwenachidera@gmail.com"> chiekwenachidera@gmail.com</a> 
        <p> <label>Mobile:</label> 08138134923 </p> 
      
     </section>
